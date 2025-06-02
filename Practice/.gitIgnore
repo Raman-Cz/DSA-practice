@@ -1,0 +1,27 @@
+# Ignore Windows executable files
+*.exe
+
+# Ignore object files and build artifacts
+*.o
+*.obj
+*.out
+
+# Ignore build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# VS Code settings (optional)
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Ignore log files
+*.log
+
+# Mac/Linux system files
+.DS_Store
